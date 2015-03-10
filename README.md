@@ -1,6 +1,10 @@
 # English-to-Chinese
 英翻中
 
+使用環境:
+<br />...Python 3+
+<br />...PyQt
+
 使用方法:
   <br />...運行EtoC.py
   <br />...在任何地方使用複製(ctrl+c)即可進行翻譯 (註:只能翻譯單字)
