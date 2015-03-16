@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>images/translate_on.png</file>
+   <file>images/translate_off.png</file>
+   
+</qresource>
+</RCC>
